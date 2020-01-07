@@ -1,0 +1,24 @@
+.Landing-container {
+   width: 95%;
+   justify-content: center;
+   margin: auto;
+}
+
+.Landing-h1 {
+   margin-bottom: 2rem;
+   letter-spacing: 0.1rem;
+}
+
+.Landing-hr {
+   width: 100%;
+   margin: 0 auto 2rem auto;
+
+   height: 0.5rem;
+   border-radius: 0.2rem;
+}
+
+.Landing-NavButton {
+   display: flex;
+   margin: auto;
+   justify-content: space-between;
+}
